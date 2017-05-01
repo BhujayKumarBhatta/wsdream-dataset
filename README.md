@@ -1,11 +1,11 @@
-##WS-DREAM Datasets
+## WS-DREAM Datasets
 
 This repository maintains a set of QoS datasets which we collected from real-world Web services. The datasets are publicly released to hopefully facilitate valuable research in the [Service Society](http://www.servicessociety.org/en/). Please feel free to contact us if you have any comments or questions. We would love to hear from researchers on ideas to improve WS-DREAM datasets.
 
 
 ---
 
-###dataset#1
+### dataset#1
 
 **339 * 5825 Web service QoS dataset**
 
@@ -15,7 +15,8 @@ the dataset. The dataset and its full description are available for downloading 
 http://wsdream.github.io/dataset/wsdream_dataset1.html
 
 
-###dataset#2
+### dataset#2
+
 **142 * 4500 * 64 time-aware Web service QoS dataset**
 
 This dataset describes real-world QoS evaluation results from 142 users on
@@ -25,7 +26,7 @@ http://wsdream.github.io/dataset/wsdream_dataset2.html
 
 ---
 
-##Acknowledgements
+## Acknowledgements
 - PlanetLab (http://www.planet-lab.org/) for use to collect the dataset
 - IPLocation (http://www.iplocation.net/) for use to collect the
 location information
