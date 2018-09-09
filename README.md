@@ -30,7 +30,7 @@ http://wsdream.github.io/dataset/wsdream_dataset2.html
 - PlanetLab (http://www.planet-lab.org/) for collecting the dataset
 - IPLocation (http://www.iplocation.net/) for collecting the
 location information
-- [Prof. Mingdong Tang](http://dblp.uni-trier.de/pers/hd/t/Tang:Mingdong) (HNUST) for contributing the AS information of the users and services
+- [Prof. Mingdong Tang](http://dblp.uni-trier.de/pers/hd/t/Tang:Mingdong) (HNUST) for contributing the AS information of users and services
 
 
 ## License
