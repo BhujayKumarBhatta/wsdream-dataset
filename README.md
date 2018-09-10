@@ -12,7 +12,7 @@ This repository maintains a set of QoS datasets which we collected from real-wor
 This dataset describes real-world QoS measurements, including both response time and throughput values, obtained from 339 users on 5,825 Web services. Note that we have recently updated the location
 information (e.g., IP, AS, Latitude, Longitude) of users and services into
 the dataset. The dataset and its full description are available for downloading at:
-http://wsdream.github.io/dataset/wsdream_dataset1.html
+https://wsdream.github.io/dataset/wsdream_dataset1.html
 
 
 ### dataset#2
@@ -22,7 +22,7 @@ http://wsdream.github.io/dataset/wsdream_dataset1.html
 This dataset describes real-world QoS measurements from 142 users on
 4,500 Web services over 64 consecutive time slices (at 15-minute interval).
 The dataset and its full description are available for downloading at:
-http://wsdream.github.io/dataset/wsdream_dataset2.html
+https://wsdream.github.io/dataset/wsdream_dataset2.html
 
 ---
 

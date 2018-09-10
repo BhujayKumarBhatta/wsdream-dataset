@@ -7,7 +7,7 @@ This dataset describes real-world QoS evaluation results from 339 users on
 5,825 Web services. Note that we have recently updated the location
 information (e.g., IP, AS, Latitude, Longitude) of users and services into
 the dataset. It is available for downloading at:
-http://wsdream.github.io/dataset/wsdream_dataset1.html
+https://wsdream.github.io/dataset/wsdream_dataset1.html
 
 ****************************************************************************
 List of contents of the dataset
