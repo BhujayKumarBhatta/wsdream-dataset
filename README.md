@@ -3,7 +3,6 @@
 This repository maintains a set of QoS datasets which we collected from real-world Web services. The datasets are publicly released to hopefully facilitate valuable research in the [Service Society](http://www.servicessociety.org/en/). Please feel free to raise [an issue](https://github.com/wsdream/wsdream-dataset/issues) if you have any questions. We also would like to hear from researchers about ideas to improve WS-DREAM datasets.
 
 
----
 
 ### dataset#1
 
@@ -24,16 +23,15 @@ This dataset describes real-world QoS measurements from 142 users on
 The dataset and its full description are available for downloading at:
 https://wsdream.github.io/dataset/wsdream_dataset2.html
 
----
 
-## Acknowledgements
+### Acknowledgements
 - PlanetLab (http://www.planet-lab.org/) for collecting the dataset
 - IPLocation (http://www.iplocation.net/) for collecting the
 location information
 - [Prof. Mingdong Tang](http://dblp.uni-trier.de/pers/hd/t/Tang:Mingdong) for contributing the AS information of users and services
 
 
-## License
+### License
 The MIT License (MIT)
 
 Copyright &copy; 2011-present, [WS-DREAM](https://wsdream.github.io), CUHK
